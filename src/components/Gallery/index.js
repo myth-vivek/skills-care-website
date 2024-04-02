@@ -4,9 +4,9 @@ import 'react-fancybox/lib/fancybox.css'
 import Gallery_1 from '../../images/gallery/img-1.jpg';
 import Gallery_2 from '../../images/gallery/img-2.jpg';
 import Gallery_3 from '../../images/gallery/img-3.jpg';
-import Gallery_4 from '../../images/gallery/img-4.jpg';
-import Gallery_5 from '../../images/gallery/img-5.jpg';
-import Gallery_6 from '../../images/gallery/img-6.jpg';
+// import Gallery_4 from '../../images/gallery/img-4.jpg';
+// import Gallery_5 from '../../images/gallery/img-5.jpg';
+// import Gallery_6 from '../../images/gallery/img-6.jpg';
 import {Link} from 'react-router-dom'
 import './style.css'
 
@@ -130,14 +130,14 @@ class Gallery extends Component {
                                     && this.state.Volunteering ? "grid active" : "grid"
                                     && this.state.isOpen ? "grid" : "grid open"}>
                                     
-                                    <img src={Gallery_6} alt="" className="img img-responsive"/>
+                                    <img src={Gallery_3} alt="" className="img img-responsive"/>
                                     <div className="icon">
                                         <Link onClick={ClickHandler} to="/gallery" className="view-icon">
                                             <i className="ti-plus" aria-hidden="true"></i>
                                         </Link>
                                     </div>
                                 </div>
-                                <div className={this.state.Charity ? "grid active" : "grid"
+                                {/* <div className={this.state.Charity ? "grid active" : "grid"
                                     && this.state.Sponsorship ? "grid active" : "grid"
                                     && this.state.isOpen ? "grid" : "grid open"}>
                                     <img src={Gallery_5} alt="" className="img img-responsive"/>
@@ -151,7 +151,7 @@ class Gallery extends Component {
                                     && this.state.Sponsorship ? "grid active" : "grid"
                                     && this.state.isOpen ? "grid" : "grid open"}>
                                     
-                                    <img src={Gallery_3} alt="" className="img img-responsive"/>
+                                    <img src={Gallery_6} alt="" className="img img-responsive"/>
                                     <div className="icon">
                                         <Link onClick={ClickHandler} to="/gallery" className="view-icon">
                                             <i className="ti-plus" aria-hidden="true"></i>
@@ -168,7 +168,7 @@ class Gallery extends Component {
                                              <i className="ti-plus" aria-hidden="true"></i>
                                         </Link>
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>

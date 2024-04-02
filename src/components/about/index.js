@@ -24,11 +24,8 @@ const About = (props) => {
                                 <h2>About Us</h2>
                             </div>
                             <p>Skills & Care Greenwich is a registered charity, predominantly working with the older people within the Royal Borough of Greenwich. Since its inception in July 2013, we have successfully delivered a range of projects that have helped over 2000 service users. Skills & care Greenwich is a winner of Civic Award 2016 and Winner of Social Care Award 2016/17 in "Best Charitable Older People Initiative - South East England" category. Our mission is to improve the health and well-being of people in Greenwich by delivering the high-quality services in the community. 
-
 We strive to make a real and lasting difference to the quality of life of local people, helping the community to CONNECT, be  
-
 more ACTIVE, take time to REFLECT, keep on LEARNING, GIVE and CELEBRATE more often and SUPPORT each other.     
-
 Our targeted projects promote community cohesion and increase the health & well-being of local people. </p>
                             <p> </p>
                             <div className="btns">

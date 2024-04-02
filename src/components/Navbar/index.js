@@ -11,7 +11,7 @@ export default function Navbar() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const className = scroll > 80 ? "fixed-navbar animated fadeInDown active" : "fixed-navbar";
+  const className = scroll > -1 ? "fixed-navbar animated fadeInDown active" : "fixed-navbar";
 
   return (
     <div className={className}>

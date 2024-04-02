@@ -28,7 +28,7 @@ const HomePage =() => {
             <Causes/>
             <CounterSection/>
             <Gallery/>
-            <TeamSection/>
+            {/* <TeamSection/> */}
             <EventSection/>
             <CtaSection/>
             <BlogSection/>
