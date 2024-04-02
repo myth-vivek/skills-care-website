@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/skills-care-website/static/css/main.3423275d.css",
-    "main.js": "/skills-care-website/static/js/main.60c1577e.js",
+    "main.js": "/skills-care-website/static/js/main.b80faac9.js",
     "static/js/787.8425d79c.chunk.js": "/skills-care-website/static/js/787.8425d79c.chunk.js",
     "static/media/img-1.jpg": "/skills-care-website/static/media/img-1.5735d3409d1739ac1790.jpg",
     "static/media/slide-1.jpg": "/skills-care-website/static/media/slide-1.37877d7206e961ddbf00.jpg",
@@ -36,11 +36,11 @@
     "static/media/slick.woff": "/skills-care-website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/skills-care-website/index.html",
     "main.3423275d.css.map": "/skills-care-website/static/css/main.3423275d.css.map",
-    "main.60c1577e.js.map": "/skills-care-website/static/js/main.60c1577e.js.map",
+    "main.b80faac9.js.map": "/skills-care-website/static/js/main.b80faac9.js.map",
     "787.8425d79c.chunk.js.map": "/skills-care-website/static/js/787.8425d79c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3423275d.css",
-    "static/js/main.60c1577e.js"
+    "static/js/main.b80faac9.js"
   ]
 }
